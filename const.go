@@ -5,6 +5,8 @@
 package main
 
 const (
-        leftBracket =   '<'
-        rightBracket=   '>'
+	leftBracket  = '<'
+	rightBracket = '>'
+	rightSlash   = '/'
+	tab          = "	"
 )
